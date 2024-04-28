@@ -36,11 +36,12 @@ export default function Home({ setSelectedIndex }: Props) {
       justifyContent="center"
       sx={{ minHeight: `calc(100vh - 20px - 33px)` }}
     >
-      <Grid item xs={3}>
-        <Stack direction={{ xs: "column", sm: "row-reverse" }} spacing={2}>
-          <Box display="flex" sx={{ justifyContent: "center" }}>
+        <Box display="flex" sx={{ justifyContent: "center" }}>
             <img src={logo} width="100px" alt="logo" />
           </Box>
+      <Grid item xs={3}>
+        <Stack direction={{ xs: "column", sm: "row-reverse" }} spacing={2}>
+        
           <Box>
             <Grid
               display="flex"
