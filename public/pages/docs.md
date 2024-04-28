@@ -104,11 +104,11 @@ Right aligned columns
 
 ## Links
 
-[link text](https://noworneverev.github.io/)
+[link text](https://praneethpj.github.io/)
 
 [link with title](https://github.com/praneethpj/praneethpj-vs-portfolio "title text!")
 
-Autoconverted link https://noworneverev.github.io/ 
+Autoconverted link https://praneethpj.github.io/ 
 
 ## Alerts
 ::: warning
