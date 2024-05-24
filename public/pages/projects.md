@@ -10,10 +10,10 @@
 > - Development and Testing 
 
 <div style="text-align: center;">
-    <img src="../pages/images/projects/tw0.png" width="400" style="margin: 0 10px; " />
-    <img src="../pages/images/projects/tw1.png" width="400" style="margin: 0 10px; " />
-    <img src="../pages/images/projects/tw2.png" width="400" style="margin: 0 10px; " />
-    <img src="../pages/images/projects/tw3.png" width="400" style="margin: 0 10px; " />
+    <img src="../pages/images/projects/tw0.png" width="300" style="margin: 0 10px; " />
+    <img src="../pages/images/projects/tw1.png" width="300" style="margin: 0 10px; " />
+    <img src="../pages/images/projects/tw2.png" width="300" style="margin: 0 10px; " />
+    <img src="../pages/images/projects/tw3.png" width="300" style="margin: 0 10px; " />
 </div>
 
 ## [Fawry App](https://play.google.com/store/apps/details?id=cash.fawry&hl=en_CA&gl=US) 🔗
