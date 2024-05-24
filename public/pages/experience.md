@@ -1,11 +1,12 @@
 # 👨‍💻 Experience
 
 **Full Stack Software Developer** @  OFFCode solutions Pvt ltd  _(Sep 2023 - Present)_
+(OFFCode is a company that provides technical consultancy to [Xentura](https://xentura.lk/) )
+
+➔ Design and develop an HR work hour calculation project to enhance work hour calculations and increase productivity of the organization
 
 ➔ Automated and computerized the process of garment project designing, streamlining the steps, and enhancing the 
 Efficiency of the two-week update, handover, and pattern maker processes.
-➔ Designed and developed an HR work hour calculation project to enhance work hour calculations and increase 
-productivity of the organization.
 
 - <b>Contributions</b>
   - Conducted requirement analysis and prepared documentation.
@@ -15,7 +16,7 @@ productivity of the organization.
   - Designed diagrams and technical documents.
 
  
-- _**Technologies used:**_ Java,Spring Boot,My SQL,React.js,AWS
+- _**Technologies are using:**_ Java,Spring Boot,My SQL,React.js,AWS
 
 &nbsp;
 
