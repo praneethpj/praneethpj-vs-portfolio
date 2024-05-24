@@ -1,6 +1,6 @@
 # 🧪 Projects
 
-## [Automated and computerized the process of garment project]
+## Automated and computerized one of the processes of the garment project design.
 - Role: Fullstack Developer
 
 - Responsibilities:
