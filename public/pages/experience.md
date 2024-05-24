@@ -5,8 +5,8 @@
 
 ➔ Design and develop an HR work hour calculation project to enhance work hour calculations and increase productivity of the organization
 
-➔ Automated and computerized the process of garment project designing, streamlining the steps, and enhancing the 
-Efficiency of the two-week update, handover, and pattern maker processes.
+➔ Automated and computerized the process of garment project designing and enhancing the 
+Efficiency of the two-week update.
 
 - <b>Contributions</b>
   - Conducted requirement analysis and prepared documentation.
