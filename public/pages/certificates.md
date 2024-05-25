@@ -10,4 +10,4 @@
 - National Best Quality ICT Awards 2018
 - National Best Quality ICT Awards 2017
 - Being a Member of Judge Panel in SheCodress Hackathon V2.0
-- Being a Member of Judge Panel in Deftcoders at Uva Wellassa University
+- Being a Member of the Judging Panel at Deftcoders, Uva Wellassa University
