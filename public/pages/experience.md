@@ -16,7 +16,7 @@ Efficiency of the two-week update.
   - Designed diagrams and technical documents.
 
  
-- _**Technologies are using:**_ Java,Spring Boot,My SQL,React.js,AWS
+- _**Technologies are using:**_ PHP, Laravel, Java,Spring Boot,My SQL,React.js,AWS
 
 &nbsp;
 
