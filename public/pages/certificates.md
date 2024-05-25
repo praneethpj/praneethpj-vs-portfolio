@@ -5,3 +5,9 @@
 - [Microservices: Security](https://www.linkedin.com/learning/certificates/7ceb07fbd9f32ea2db115c4446eedebf2f01826c167cd8c6b6224ef2e492fc93?trk=backfilled_certificate)
 - [Learning Oracle Database 19c](https://www.linkedin.com/learning/certificates/00ac1312e3203070d9ba4320a93b42d963bde668bd484f5673bebff2ab8a60b0?trk=backfilled_certificate)
 - [UX Foundations: Style Guides and Design Systems](https://www.linkedin.com/learning/certificates/9fe5d0584a8936162fa51d106e73e733dd8336b657a249bb3f132dc383248e66?trk=backfilled_certificate)
+
+# 🏆 Awards and Appreciations 
+- National Best Quality ICT Awards 2018
+- National Best Quality ICT Awards 2017
+- Being a Member of Judge Panel in SheCodress Hackathon V2.0
+- Being a Member of Judge Panel in Deftcoders at Uva Wellassa University
