@@ -1,5 +1,5 @@
 # 🧪 Projects
-
+#### [ Please note that I was unable to include all projects and information from certain companies due to their policies and agreements ]
 ## Automated and computerized one of the processes of the garment project design.
 - Role: Fullstack Developer
 
