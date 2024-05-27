@@ -30,7 +30,7 @@ I am a tech enthusiast specializing in Java, Spring Boot, and React JS, with exp
     - Java, Dart, JavaScripts
 - Frameworks
     - Spring Boot, Flutter
-- Java Technogoes
+- Java Technologies
     - Spring Cloud, Spring Security, Hibernate, JPA
 - AWS
     - EC2, SNS, SQS, S3, Lambda, Api gateway, Docker
