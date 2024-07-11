@@ -1,6 +1,6 @@
 # 👨‍💻 Experience
 
-**Full Stack Software Developer** @  OFFCode solutions Pvt ltd  _(Sep 2023 - Present)_
+**Senior Software Engineer** @  OFFCode solutions Pvt ltd (Part time)  _(Sep 2023 - Present)_
 (OFFCode is a company that provides technical consultancy to [Xentura](https://xentura.lk/) )
 
 ➔ Design and develop an HR work hour calculation project to enhance work hour calculations and increase productivity of the organization
@@ -20,7 +20,8 @@ Efficiency of the two-week update.
 
 &nbsp;
 
-**Full Stack Software Developer** @  ProjectXSpace(pvt) Ltd  _(Mar 2022 - Aug 2023)_
+**Senior Software Engineer** @  OFFCode solutions Pvt ltd   _(Mar 2022 - Aug 2023)_
+(OFFCode is a company that provides technical consultancy to [Xentura](https://xentura.lk/) )
 
 ➔ A client wanted to develop a Point of Sale and E-commerce application with a Delivery Application.
 
@@ -51,7 +52,20 @@ Efficiency of the two-week update.
 
 &nbsp;
 
- **Java Software Developer** @  Hitachi Digital Payment Solutions(pvt) Ltd  _(Dec 2020 - Mar 2022)_
+
+<b>Project Description:</b> The client expressed a need for the development of an e-learning application that facilitates online exams, video tutorials, assessments, and grading. The objective of this project was to develop a B2B Stream Education platform for remote learners.
+
+- Contributions:
+  - Developed the user dashboard using ReactJS for the frontend.
+  - Developed a Spring Boot microservice for supporting AWS SNS notifications for receiving messages to the student groups.
+  - Developed a Microservice to upload education materials.
+
+
+ _**Technologies used:**_  Java, Spring Boot, React Js, Redux toolkit, Tailwind Css, MongoDB, JUnit 5, Logger, MySQL, Microservice, Lombok, Eureka discovery service and service register, Api gateway, Hystrix dashboard
+
+#
+
+ **Java Software Developer** @  [Hitachi Digital Payment Solutions(pvt) Ltd](https://hitachi-dps.com/)  _(Dec 2020 - Mar 2022)_
 
 <b>Project Description:</b> The settlement process is a banking reconciliation process. The clients are banking institutes, and this process includes payment posting to Visa and Mastercard, as well as handling dispute scenarios.
 
@@ -66,24 +80,24 @@ Efficiency of the two-week update.
 
  _**Technologies used:**_ Java 8, J2EE, JSP, Spring Boot, Loggers, Kafka, AWS, SQL, Oracle
 
- &nbsp;
+#
 
  **Junior Software Engineer** @  Apigate (pvt) Ltd (Full Time)   _(Apr 2020 - Nov 2020)_
+(Currently known as [Boost Connect](https://connect.myboost.co/)) 
 
-<b>Project Description:</b> The client expressed a need for the development of an e-learning application that facilitates online exams, video tutorials, assessments, and grading. The objective of this project was to develop a B2B Stream Education platform for remote learners.
+<b>Project Name</b> : LMS Integration and Data Integration
 
-- Contributions:
-  - Developed the user dashboard using ReactJS for the frontend.
-  - Developed a Spring Boot microservice for supporting AWS SNS notifications for receiving messages to the student groups.
-  - Developed a Microservice to upload education materials.
+- ESB integration.
+- This client wanted to pass an ESB database into their
+own system.
+- Provided ESB Integration supports
 
+ _**Technologies used:**_ Java, Apache synapse, axis2, JAX-RX, JAX-WS, Maven,
 
- _**Technologies used:**_  Java, Spring Boot, React Js, Redux toolkit, Tailwind Css, MongoDB, JUnit 5, Logger, MySQL, Microservice, Lombok, Eureka discovery service and service register, Api gateway, Hystrix dashboard
+ant, WSO2 (ESB)
 
-
-  &nbsp;
-
- **Intern Software Engineer** @ Wso2.telco (pvt) Ltd (Full Time)  _(Apr 2020 - Nov 2020)_
+ **Intern Software Engineer** @ Apigate (pvt) Ltd (Full Time)  _(Sep 2019 - Mar 2020)_
+  (Currently known as [Boost Connect](https://connect.myboost.co/)) 
 
  - <b>Contribution</b> Contributed to bug fixing, modification, and configuration of WSO2 API Manager and Identity Server.
 
