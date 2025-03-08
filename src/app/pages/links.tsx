@@ -21,22 +21,20 @@ export const links = [
     href: "https://www.linkedin.com/in/praneethpj/",
     icon: <FaLinkedin />,
   },
+  
+
+    
   {
     index: 2,
-    title: "Contact me via email",
-    href: "mailto:pubudupraneeth@gmail.com",
-    icon: <FaEnvelope />,
+    title: "Credly",
+    href: "https://www.credly.com/users/herath-mudiyanselage-pubudu-praneeth-jayarathna",
+    icon: <FaBlog />,
   },
   {
     index: 3,
-    title: "Find me on Medium",
-    href: "https://medium.com/@pubudupraneeth",
-    icon: <FaMedium />,
-  },
-  {
-    index: 4,
     title: "Download by Resume",
-    href: "../pages/files/Herath.M.P.P.J.pdf",
+    href: "../pages/files/PUBUDU_PRANEETH_JAYARATHNA.pdf",
     icon: <FaFilePdf />,
   },
+  
 ];
