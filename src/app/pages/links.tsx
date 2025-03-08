@@ -36,7 +36,7 @@ export const links = [
   {
     index: 4,
     title: "Download by Resume",
-    href: "../pages/files/PUBUDU_PRANEETH_JAYARATHNA.pdf",
+    href: "../pages/files/Herath.M.P.P.J.pdf",
     icon: <FaFilePdf />,
   },
 ];
